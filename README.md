@@ -23,6 +23,6 @@ Task 03 Report (Cyber_Security_Task_03_Yonas_Tiruneh.pdf)
 
 Contact
 
-LinkedIn: [Insert your LinkedIn profile link here]
+LinkedIn: https://www.linkedin.com/in/yonas-tiruneh-a007643a6/
 
-Email: [Insert your email address here]
+Email:tirunehyonas16@gmail.com
