@@ -7,7 +7,7 @@ Prepared by: Yonas Tiruneh
 Tasks Overview
 Tools Used
 
-Scanning & Analysis: Nmap, OWASP ZAP
+Scanning & Analysis: Nmap, OWASP ZAP, DevTools
 
 
 
